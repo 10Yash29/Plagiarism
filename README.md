@@ -37,3 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/4bb062c1-8b9c-457a-ab5d-1c1c06d9900f">
 
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/370e9542-5728-4e02-a722-6be0d81875df">
+
+![image](https://github.com/user-attachments/assets/d092ffa5-bab3-4235-a682-2608a24b49da)
+
+
